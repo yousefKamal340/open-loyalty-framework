@@ -86,4 +86,4 @@ Example definition of such listener:
           - { name: broadway.domain.event_listener }
 ```
 
-### OpenLoyalty\Domain\Customer\Event\CampaignWasBoughtByCustomer - dispatched when campaign was bought by customer
+### OpenLoyalty\Domain\Customer\Event\CampaignWasBoughtByCustomer - dispatched when campaign was bought by customer"# frameworkOL" 
